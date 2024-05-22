@@ -2,7 +2,6 @@
 Repositorio del proyecto final de programacion 3 que es del 6to semestre de ingieneria de sistemas.
 --
 --
---
 # 1-PLANTEAMIENTO DEL PROBLEMA
 
 El boxeo es un deporte que requiere no solo habilidad física, sino también un profundo conocimiento técnico y una constante dedicación al entrenamiento. Sin embargo, muchos boxeadores, ya sean principiantes o
@@ -43,16 +42,20 @@ OBJETIVOS GENERALES:
 A. Crear una plataforma digital integral que permita a los usuarios llevar una rutina de entrenamiento y desarrollo profesional enfocada al boxeo mediante la aplicación, implementando entrenamientos 
    estratégicos y efectivos, así como lo son la app de entrenamiento virtuagym fitness, Nike training club y gym trainer, “Desde entrenamientos personalizados y automatizados por algoritmos hasta seguimiento 
    de progresos y logros” (Casal, 2023).
+   
 B. Implementar un sistema de categorización de boxeadores que asegure una clasificación precisa y eficiente según sus habilidades, experiencia y características individuales de cada usuario, esto para generar 
    un plan de entrenamiento establecido, así como lo hace la aplicación Jefit, que ofrece programas de entrenamiento preestablecidos diseñados por expertos (Casal, 2023).
+   
 C. Facilitar la toma de decisiones por parte del usuario al proporcionar información sobre sus ídolos boxeadores, incluyendo su historial deportivo, rendimiento en combates anteriores, fortalezas y áreas de 
    mejora.
 
 OBJETIVOS ESPECIFICOS:
 
 A. Recolectar y seleccionar recursos de entrenamiento de calidad que se ajusten a las necesidades y niveles de experiencia de los usuarios de la plataforma.
+
 B. Desarrollar algoritmos y sistemas de categorización basados en datos objetivos y subjetivos para clasificar a los boxeadores de manera precisa y eficiente, considerando factores como experiencia, 
    habilidades técnicas y estilo de pelea.
+   
 C. Incorporar características interactivas de conocimiento y herramientas de informes de rendimiento para mejorar la toma de decisiones en el usuario al momento de entrenar, tal como lo hacen muchas de las 
    apps nombradas en la página de fitnetizate.com “Las mejores apps de rutinas de gimnasio gratis.” (Casal, 2023).
 

@@ -2,6 +2,8 @@
 Repositorio del proyecto final de programacion 3 que es del 6to semestre de ingieneria de sistemas.
 --
 --
+# Investigación y Análisis del Tema
+
 # NOMBRE DEL PROYECTO: Sistema de Categorización de Boxeadores
 --
 # 1-PLANTEAMIENTO DEL PROBLEMA
@@ -55,15 +57,9 @@ B. Implementar un sistema de categorización de boxeadores que asegure una clasi
 C. Facilitar la toma de decisiones por parte del usuario al proporcionar información sobre sus ídolos boxeadores, incluyendo su historial deportivo, rendimiento en combates anteriores, fortalezas y áreas de 
    mejora.
 
-OBJETIVOS ESPECIFICOS:
+OBJETIVO ESPECIFICO:
 
-A. Recolectar y seleccionar recursos de entrenamiento de calidad que se ajusten a las necesidades y niveles de experiencia de los usuarios de la plataforma.
-
-B. Desarrollar algoritmos y sistemas de categorización basados en datos objetivos y subjetivos para clasificar a los boxeadores de manera precisa y eficiente, considerando factores como experiencia, 
-   habilidades técnicas y estilo de pelea.
-   
-C. Incorporar características interactivas de conocimiento y herramientas de informes de rendimiento para mejorar la toma de decisiones en el usuario al momento de entrenar, tal como lo hacen muchas de las 
-   apps nombradas en la página de fitnetizate.com “Las mejores apps de rutinas de gimnasio gratis.” (Casal, 2023).
+A. Desarrollar una plataforma que recopile, seleccione y categorice de forma precisa recursos de entrenamiento adaptados a las necesidades y niveles de experiencia de los usuarios. Esta plataforma integrará características interactivas y herramientas de informes de rendimiento para mejorar la toma de decisiones durante el entrenamiento, tomando como referencia las mejores prácticas de las aplicaciones recomendadas en fitnetizate.com.
 
 # 4.¿POR QUÉ ES INTERESANTE?
 

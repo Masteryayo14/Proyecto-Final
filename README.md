@@ -2,6 +2,8 @@
 Repositorio del proyecto final de programacion 3 que es del 6to semestre de ingieneria de sistemas.
 --
 --
+# NOMBRE DEL PROYECTO: Sistema de Categorización de Boxeadores
+--
 # 1-PLANTEAMIENTO DEL PROBLEMA
 
 El boxeo es un deporte que requiere no solo habilidad física, sino también un profundo conocimiento técnico y una constante dedicación al entrenamiento. Sin embargo, muchos boxeadores, ya sean principiantes o

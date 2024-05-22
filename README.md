@@ -82,7 +82,11 @@ En resumen, la creación de esta plataforma no solo busca superar las barreras e
 
 # 6-TAREAS DE CADA INTEGRANTE.
 
+SANTIAGO CARVAJAL:
 
+BRAYAN MATALLANA:
+
+MATTHEW ESPINOSA
 
 # 7-REFERENCIAS:
 

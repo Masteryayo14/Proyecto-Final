@@ -84,7 +84,7 @@ En resumen, la creación de esta plataforma no solo busca superar las barreras e
 
 # 6-TAREAS DE CADA INTEGRANTE.
 
-SANTIAGO CARVAJAL:
+SANTIAGO CARVAJAL: Me ocupo de la pagina web de los boxeadores mas famosos, donde me encargo de dar a conocer quienes fueron los boxeadores mas famosos de la historia, ademas le anexo secciones donde hablo de los boxeadores del anime, los mas famosos y boxeadores ficticios, de pelicula.
 
 BRAYAN MATALLANA:
 

@@ -59,7 +59,7 @@ C. Facilitar la toma de decisiones por parte del usuario al proporcionar informa
 
 OBJETIVO ESPECIFICO:
 
-A. Desarrollar una plataforma que recopile, seleccione y categorice de forma precisa recursos de entrenamiento adaptados a las necesidades y niveles de experiencia de los usuarios. Esta plataforma integrará características interactivas y herramientas de informes de rendimiento para mejorar la toma de decisiones durante el entrenamiento, tomando como referencia las mejores prácticas de las aplicaciones recomendadas en fitnetizate.com.
+A. Crear una plataforma que recolecte y seleccione recursos de entrenamiento adaptados a las necesidades y niveles de experiencia de los usuarios, utilizando algoritmos de categorización objetiva y subjetiva. Esta plataforma integrará características interactivas para mejorar la experiencia de entrenamiento, inspirada en las mejores prácticas de las aplicaciones mencionadas en fitnetizate.com.
 
 # 4.¿POR QUÉ ES INTERESANTE?
 

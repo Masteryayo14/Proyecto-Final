@@ -84,11 +84,11 @@ En resumen, la creación de esta plataforma no solo busca superar las barreras e
 
 # 6-TAREAS DE CADA INTEGRANTE.
 
-SANTIAGO CARVAJAL: Me ocupo de la pagina web de los boxeadores mas famosos, donde me encargo de dar a conocer quienes fueron los boxeadores mas famosos de la historia, ademas le anexo secciones donde hablo de los boxeadores del anime, los mas famosos y boxeadores ficticios, de pelicula.
+SANTIAGO CARVAJAL: Se ocupara de la pagina web de los boxeadores mas famosos, donde se encargara de dar a conocer quienes fueron los boxeadores mas famosos de la historia, ademas se le anexan secciones donde se habla de los boxeadores mas famosos y ficticios o de pelicula, además se implementara un servlet, un JSP y un EJB dentro esta sección.
 
-BRAYAN MATALLANA:
+BRAYAN MATALLANA: Se ocupara de la pagina web de inicio, donde se muestra información relevante sobre el deporte como lo es el origen, implementos de boxeo, algunos videos referentes a este deporte, además se implementara un servlet, un JSP y un EJB dentro esta sección enfocados al usuario como por ejemplo un inicio de sesión.
 
-MATTHEW ESPINOSA
+MATTHEW ESPINOSA: Se ocupara de la pagina web aprende a boxear, donde se mostraran las tecnicas basicas para aprender a boxear, tambien se daran a conocer algunas sesiones de entrenamiento y rutinas a tener en cuenta para mejorar en este deporte y por ultimo se mostraran algunos recursos adicionales, esto con el fin de mejorar las habilidades y el conocimiento sonre el sobre el boxeo, además se implementara un servlet, un JSP y un EJB dentro esta sección.
 
 # 7-REFERENCIAS:
 
